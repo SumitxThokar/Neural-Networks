@@ -6,7 +6,8 @@ A neural network can be defined as a computational model inspired by the structu
 
 [**Hello World of Neural Network**](https://github.com/SumitxThokar/Neural_Nets/blob/main/DeepLearning.Ai/C1_W1_01Hello_world_of_Neural_nets.py)
 - The very first model program of Neural Network. The model used a single layer neural network built with TensorFlow to analyze the predictions.
-
+- Jupyter Notebook file [Here](https://github.com/SumitxThokar/Neural_Nets/blob/main/Jupyter_File/C1_W1_01Hello_world.ipynb)
 
 [**Hello World of Neural Network**](https://github.com/SumitxThokar/Neural_Nets/blob/main/DeepLearning.Ai/C1_W1_02_CVision.py)
 - Got introduced to the field of Computer Vision. It's all about teaching a computer to understand and label what is present in an image. I worked on my first computer vision project using the Fashion MNIST dataset, which comprises of 70,000 images and 10 categories, all with a resolution of 28x28. I was thrilled to train a neural network with three layers and see the results for myself.
+- Jupyter Notebook file [Here](https://github.com/SumitxThokar/Neural_Nets/blob/main/Jupyter_File/C1_W2_02_CVision.ipynb)
