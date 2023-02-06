@@ -19,3 +19,7 @@ A neural network can be defined as a computational model inspired by the structu
 [**Convolutional Neural Networks (CNNs)**](https://github.com/SumitxThokar/Neural_Nets/blob/main/DeepLearning.Ai/C1_W3_04_CNN.py)
 - Introduced to CNNs and used them to build a much better fashion classifier. Also got the concepts of convolutional and pooling and successfully implemented them.
 - Jupyter Notebook file [Here](https://github.com/SumitxThokar/Neural_Nets/blob/main/Jupyter_File/C1_W3_04_CNN.ipynb)
+
+[**Exploring Convolutions**](https://github.com/SumitxThokar/Neural_Nets/blob/main/DeepLearning.Ai/C1_W3_05_exploring_convolution.py)
+- Explored how convolutions work by creating a basic convolution on 2D grayscale image. Also effect of (2,2) Max Pooling.
+- Jupyter Notebook file [Here](https://github.com/SumitxThokar/Neural_Nets/blob/main/Jupyter_File/C1_W3_05_exploring_convolution.ipynb)
