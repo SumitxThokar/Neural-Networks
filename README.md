@@ -12,10 +12,10 @@ A neural network can be defined as a computational model inspired by the structu
 - Got introduced to the field of Computer Vision. It's all about teaching a computer to understand and label what is present in an image. I worked on my first computer vision project using the Fashion MNIST dataset, which comprises of 70,000 images and 10 categories, all with a resolution of 28x28. I was thrilled to train a neural network with three layers and see the results for myself.
 - Jupyter Notebook file [Here](https://github.com/SumitxThokar/Neural_Nets/blob/main/Jupyter_File/C1_W1_02_CVision.ipynb)
 
-[**Callback**](https://github.com/SumitxThokar/Neural_Nets/blob/main/DeepLearning.Ai/C1_W2_03_callback.ipynb)
+[**Callback**](https://github.com/SumitxThokar/Neural_Nets/blob/main/DeepLearning.Ai/C1_W2_03_callback.py)
 - Learned about callback and its function in controlling the training process. The callbacks API allows you to stop the training process when a specific metric is reached, saving time and resources.
-- Jupyter Notebook file [Here](https://github.com/SumitxThokar/Neural_Nets/blob/main/Jupyter_File/C1_W2_03_CVision.ipynb)
+- Jupyter Notebook file [Here](https://github.com/SumitxThokar/Neural_Nets/blob/main/Jupyter_File/C1_W2_03_callback.ipynb)
 
-[**Convolutional Neural Networks (CNNs)**](https://github.com/SumitxThokar/Neural_Nets/blob/main/DeepLearning.Ai/C1_W3_04_CNN.ipynb)
+[**Convolutional Neural Networks (CNNs)**](https://github.com/SumitxThokar/Neural_Nets/blob/main/DeepLearning.Ai/C1_W3_04_CNN.py)
 - Introduced to CNNs and used them to build a much better fashion classifier. Also got the concepts of convolutional and pooling and successfully implemented them.
 - Jupyter Notebook file [Here](https://github.com/SumitxThokar/Neural_Nets/blob/main/Jupyter_File/C1_W3_04_CNN.ipynb)
