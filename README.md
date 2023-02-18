@@ -23,3 +23,8 @@ A neural network can be defined as a computational model inspired by the structu
 [**Exploring Convolutions**](https://github.com/SumitxThokar/Neural_Nets/blob/main/DeepLearning.Ai/C1_W3_05_exploring_convolution.py)
 - Explored how convolutions work by creating a basic convolution on 2D grayscale image. Also effect of (2,2) Max Pooling.
 - Jupyter Notebook file [Here](https://github.com/SumitxThokar/Neural_Nets/blob/main/Jupyter_File/C1_W3_05_exploring_convolution.ipynb)
+
+# Convolutional Neural Networks in Tensorflow
+- Worked on Cats vs Dogs datasets.
+- Built a model to classify real images of cats and dogs.
+- [This model](https://github.com/SumitxThokar/Neural_Nets/blob/main/DeepLearning.Ai/catvsdogs.ipynb) is the first one we build we using previous ideas and this model is overfitted.
