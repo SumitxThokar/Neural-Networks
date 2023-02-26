@@ -28,6 +28,10 @@ A neural network can be defined as a computational model inspired by the structu
 - Worked on Cats vs Dogs datasets.
 - Built a model to classify real images of cats and dogs.
 - [This model](https://github.com/SumitxThokar/Neural_Nets/blob/main/DeepLearning.Ai/catvsdogs.ipynb) is the first one we build we using previous ideas and this model is overfitted.
-### Final Project on Popular Cat vs Dog dataset from kaggle
+### C2W2 Assignment Project on Popular Cat vs Dog dataset from kaggle
 - Used the concept of Image Augmentation.
 - [Project Here](https://github.com/SumitxThokar/Neural_Nets/blob/main/Jupyter_File/C2W2_Assignment.ipynb)
+
+## C2W3 Assignment Project on Horse vs Human dataset.
+- Used concept of Image Augmentation, Transfer Learnning and Dropout.
+- [Project Here](https://github.com/SumitxThokar/Neural-Networks/blob/main/Jupyter_File/C2W3_Assignment.ipynb)
