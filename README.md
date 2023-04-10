@@ -32,6 +32,11 @@ A neural network can be defined as a computational model inspired by the structu
 - Used the concept of Image Augmentation.
 - [Project Here](https://github.com/SumitxThokar/Neural_Nets/blob/main/Jupyter_File/C2W2_Assignment.ipynb)
 
-## C2W3 Assignment Project on Horse vs Human dataset.
+### C2W3 Assignment Project on Horse vs Human dataset.
 - Used concept of Image Augmentation, Transfer Learnning and Dropout.
 - [Project Here](https://github.com/SumitxThokar/Neural-Networks/blob/main/Jupyter_File/C2W3_Assignment.ipynb)
+
+# Natural Language Processing in Tensorflow.
+## Predicting the next word.
+- Implemented model and train it using corpus of Shakespeare's sonnets, while also creating some helper functions to pre-process the data.
+- [Project Here](https://github.com/SumitxThokar/Neural-Networks/blob/main/Jupyter_File/C3W4_Assignment.ipynb)
